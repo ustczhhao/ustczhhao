@@ -8,18 +8,18 @@ My work spans computational biology, evolutionary genetics, medical AI, and tech
 
 - Computational Biology and Bioinformatics
 - Mathematical Modeling and Quantitative Analysis
-- Machine Learning for Biomedical Applications
+- AI for Biomedical Applications
 - Algorithm Development and Scientific Computing
 - Software Engineering and Data-Driven Problem Solving
 
 ## Featured Repositories
 
-- **PhD Research Projects** — Research projects in evolutionary genetics, mathematical modeling, and computational biology developed during PhD training.
-- **Selected OMSCS Projects** — Graduate-level technical projects spanning machine learning, data engineering, Android development, and software design.
-- **Additional Technical Work** — Selected repositories reflecting applied software, data, or analytical problem-solving.
+- [**PhD Research Projects**](https://github.com/ustczhhao/1_phd_projects) — Research projects in evolutionary genetics, mathematical modeling, and computational biology developed during PhD training.
+- [**Machine Learning and Deep Learning Coursework Repository**](https://github.com/ustczhhao/2_coursera) — Ongoing collection of machine learning and deep learning implementations, exercises, and selected project work from structured online coursework.
+- [**Selected OMSCS Projects**](https://github.com/ustczhhao/3_selected_omscs_projects) — Selected graduate-level projects in AI, data engineering, and software development completed through the Georgia Tech OMSCS program.
 
 ## Technical Stack
 
 **Languages:** Python, R, Java, SQL, Mathematica  
-**Areas:** Bioinformatics, Mathematical Modeling, Machine Learning, Scientific Computing, Data Engineering  
-**Tools:** Jupyter, Git, Conda, Android Studio
+**Domains:** Bioinformatics, Mathematical Modeling, Machine Learning, Deep Learning, Scientific Computing, Data Engineering  
+**Tools:** Jupyter, Git, Conda, VS Code, RStudio, Android Studio
